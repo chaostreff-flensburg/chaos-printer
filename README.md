@@ -7,6 +7,7 @@ It gives you the vibe of a Game Boy Camera and Printer but with your Phone and a
 First you need to setup [brother_ql](https://github.com/pklaus/brother_ql).
 You may need to change the params for the brother_ql command in the code.
 Then you need to install the dependencies
+
     npm install
 ## Usage
     BOT_TOKEN=YOUR_BOT_TOKEN npm start
