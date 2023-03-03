@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.6.4",
+    "jimp": "^0.22.7",
     "node-telegram-bot-api": "^0.30.0",
     "request-promise-native": "^1.0.7"
   }
